@@ -33,12 +33,11 @@ Python standard configuration
     - user-item-interactions.csv: dataset including all user interactions to the articles
 2. root
     - README.md: This file, a description about this project
-    - Recommendations_with_IBM.ipynb: Jupiter notebook for Contains the implemented recommendation techniques
+    - Recommendations_with_IBM.ipynb: Jupiter notebook to implemented recommendation system
     - project_tests.py: routine to give the asserts for all questions in jupyter notebook
 
 
 ## Instructions<a name="instructions"></a>
-
 Run jupiter notebook
 
 <a name="licensing"></a>
